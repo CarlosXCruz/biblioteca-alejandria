@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.content {
+    flex: 1;
+    padding: 20px;
+	text-align: center;
+}
+
+.imagen {
+    border-radius: 10px;
+    max-width: 100%;
+}
+
+.title {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+.text {
+    font-size: 1em;
+    margin-bottom: 20px;
+	text-align: justify;
+}
+
+@media (max-width: 768px) {
+    .imagen {
+        display: none;
+    }
+}
