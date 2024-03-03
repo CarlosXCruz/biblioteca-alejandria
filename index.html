@@ -66,7 +66,7 @@
             <div class="container justify-content-around">
                 <div class="row col-12">
                     <div class="content">
-                        <h4 id="book-counter">XX Libros</h4>
+                        <h4 id="book-counter"></h4>
                     </div>
                     <div class="content">
                         <h4>YY Géneros</h4>
@@ -87,6 +87,6 @@
     fetch('./biblioteca.json')
     .then((response) => response.json())
     .then((json) => {
-        bookCounter.innerHTML = json.collection.length
+        bookCounter.innerHTML = json.collection.length + " Libros";
     });   
 </script>
