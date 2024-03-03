@@ -86,7 +86,7 @@
 
     const collection = fetch('./biblioteca.json')
     .then((response) => response.json())
-    .then((json) => console.log(json)); 
-
-    bookCounter.innerHTML = collection.collection.length
+    .then((json) => {
+        bookCounter.innerHTML = collection.collection.length
+    });   
 </script>
