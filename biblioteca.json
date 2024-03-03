@@ -30,7 +30,7 @@
         {
             "name": " Caballería roja ",
             "url": " http://bibliotecadigital.ilce.edu.mx/Colecciones/ObrasClasicas/_docs/CaballeriaRoja_Babel.pdf ",
-            "image": "",
+            "image": "https://www.txalaparta.eus/es/libros/caballeria-roja/download",
             "author": " Babel, Isaac Emmanvilovich ",
             "categories": [
                 ""
@@ -39,7 +39,7 @@
         {
             "name": " Alberto Savaruz ",
             "url": " http://bibliotecadigital.ilce.edu.mx/Colecciones/ObrasClasicas/_docs/Alberto_Savaruz-Honore_de_Balzac.pdf ",
-            "image": "",
+            "image": "https://m.media-amazon.com/images/I/81idQCQYrML._AC_UF1000,1000_QL80_.jpg",
             "author": " Balzac, Honoré de ",
             "categories": [
                 ""
@@ -48,7 +48,7 @@
         {
             "name": " El asesinato ",
             "url": " http://bibliotecadigital.ilce.edu.mx/Colecciones/ObrasClasicas/_docs/Asesinato.pdf ",
-            "image": "",
+            "image": "https://m.media-amazon.com/images/I/41FFQU-twhL.jpg",
             "author": " Chéjov, Antón ",
             "categories": [
                 ""
@@ -57,7 +57,7 @@
         {
             "name": " El jardín de los cerezos ",
             "url": " http://bibliotecadigital.ilce.edu.mx/Colecciones/ObrasClasicas/_docs/JardinCerezos.pdf ",
-            "image": "",
+            "image": "https://cdn.mcu.es/wp-content/uploads/Cartel-Jard%C3%ADn-ficha.jpg",
             "author": " Chéjov, Antón ",
             "categories": [
                 ""
@@ -66,7 +66,7 @@
         {
             "name": " El pabellón No. 6 ",
             "url": " http://bibliotecadigital.ilce.edu.mx/Colecciones/ObrasClasicas/_docs/Pabellon6.pdf ",
-            "image": "",
+            "image": "https://m.media-amazon.com/images/I/71kiS5HEr2L._AC_UF1000,1000_QL80_.jpg",
             "author": " Chéjov, Antón ",
             "categories": [
                 ""
@@ -75,7 +75,7 @@
         {
             "name": " El misterio de Copper Beeches ",
             "url": " http://bibliotecadigital.ilce.edu.mx/Colecciones/ObrasClasicas/_docs/MisterioCopper_Doyle.pdf ",
-            "image": "",
+            "image": "https://cdn.kobo.com/book-images/96680ee4-b452-4c0d-92ee-601c3f0c8288/1200/1200/False/el-misterio-de-copper-beeches.jpg",
             "author": " Conan Doyle, Arthur ",
             "categories": [
                 ""
@@ -84,7 +84,7 @@
         {
             "name": " El misterio del valle Boscombe ",
             "url": " http://bibliotecadigital.ilce.edu.mx/Colecciones/ObrasClasicas/_docs/MisterioValleBoscombe_Doyle.pdf ",
-            "image": "",
+            "image": "https://www.elejandria.com/covers/El_misterio_del_valle_Boscombe-Conan_Doyle_Arthur-lg.png",
             "author": " Conan Doyle, Arthur ",
             "categories": [
                 ""
@@ -93,7 +93,7 @@
         {
             "name": " El signo de los cuatro ",
             "url": " http://bibliotecadigital.ilce.edu.mx/Colecciones/ObrasClasicas/_docs/SignoCuatro_Doyle.pdf ",
-            "image": "",
+            "image": "https://www.planetadelibros.com/usuaris/libros/fotos/347/original/portada_el-signo-de-los-cuatro_arthur-conan-doyle_202203181008.jpg",
             "author": " Conan Doyle, Arthur ",
             "categories": [
                 ""
@@ -102,7 +102,7 @@
         {
             "name": " Espanto en las alturas ",
             "url": " http://bibliotecadigital.ilce.edu.mx/Colecciones/ObrasClasicas/_docs/EspantoAlturas_Doyle.pdf ",
-            "image": "",
+            "image": "https://m.media-amazon.com/images/I/412We4iVmeL.jpg",
             "author": " Conan Doyle, Arthur ",
             "categories": [
                 ""
@@ -111,7 +111,7 @@
         {
             "name": " Un escándalo en Bohemia ",
             "url": " http://bibliotecadigital.ilce.edu.mx/Colecciones/ObrasClasicas/_docs/EscandaloBohemia_Doyle.pdf ",
-            "image": "",
+            "image": "https://www.elejandria.com/covers/Un_escandalo_en_Bohemia-Conan_Doyle_Arthur-lg.png",
             "author": " Conan Doyle, Arthur ",
             "categories": [
                 ""
