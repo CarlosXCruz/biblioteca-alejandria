@@ -84,9 +84,9 @@
 <script>
     const bookCounter = document.getElementById("book-counter");
 
-    const collection = fetch('./biblioteca.json')
+    fetch('./biblioteca.json')
     .then((response) => response.json())
     .then((json) => {
-        bookCounter.innerHTML = collection.collection.length
+        bookCounter.innerHTML = json.collection.length
     });   
 </script>
